@@ -1,6 +1,8 @@
 ## unreleased
 
- - [general] Cleanup old / unused code (@ejgallego, #)
+ - [general] Cleanup old / unused code (@ejgallego, #362)
+ - [general] Make licensing clearer (@ejgallego @palmskog
+             @SnarkBoojum, #361, closes #266)
 
 ## Version 0.18.1:
 
